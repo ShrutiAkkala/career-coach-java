@@ -1,0 +1,55 @@
+SKILLS FRAMEWORK FOR ENGINEERING PROMOTION
+
+Technical Skills by Level
+
+Coding and Implementation
+L3: Writes correct, readable code in primary language. Understands testing fundamentals.
+L4: Writes efficient, well-tested code. Reviews others effectively. Familiar with performance profiling.
+L5: Makes principled language and technology choices. Sets coding standards for the team.
+L6: Evaluates and adopts new technologies at organizational scale. Influences technical standards broadly.
+
+System Design
+L3: Understands existing system components. Can implement within defined interfaces.
+L4: Designs single-service or feature-scoped systems. Familiar with common patterns (caching, queuing, APIs).
+L5: Designs distributed systems with reliability, scalability, and operability in mind. Considers failure modes.
+L6: Architects multi-service platforms. Defines patterns others follow. Drives build vs buy decisions.
+
+Debugging and Reliability
+L3: Debugs issues in code they wrote. Uses basic observability tools.
+L4: Debugs cross-component issues. Writes runbooks. Participates in incident response.
+L5: Leads incident response. Improves reliability metrics. Establishes observability standards.
+L6: Owns SLA/SLO frameworks. Drives reliability culture across teams.
+
+Leadership and Collaboration Skills
+
+Mentorship
+L3: N/A (focus on learning)
+L4: Informally mentors interns; provides constructive code reviews.
+L5: Actively develops L3/L4 engineers; creates growth opportunities; onboards new team members.
+L6: Grows senior engineers into leads; identifies high-potential talent; shapes hiring criteria.
+
+Communication
+L3: Communicates clearly in Slack/standups; provides status updates proactively.
+L4: Writes clear design docs; presents work in team forums; flags risks early.
+L5: Writes org-quality RFCs; presents to leadership; communicates tradeoffs to non-engineers.
+L6: Influences strategy through compelling technical narratives; strong executive presence.
+
+Ambiguity and Problem Framing
+L3: Works within well-defined problems.
+L4: Scopes medium-complexity problems; breaks them into tasks.
+L5: Defines problem scope in ambiguous domains; proposes solutions to under-specified challenges.
+L6: Identifies problems others haven't seen yet; reframes org-level challenges into tractable work.
+
+Skill Gap Archetypes
+
+"Brilliant Technician, Not Yet a Leader" (Common L4->L5 blocker)
+Symptom: Strong technical output but no multiplier effect on team.
+Fix: Invest in structured mentorship, facilitate technical discussions, own a cross-functional initiative.
+
+"Senior by Title, Junior by Influence" (Common L5->L6 blocker)
+Symptom: Known within team but not visible or influential beyond it.
+Fix: Drive a cross-team initiative, present at all-hands, publish internal thought leadership, build relationships with PMs and TPMs.
+
+"Individual Contributor Mindset at Staff Level" (Common L6->L7 blocker)
+Symptom: Still gravitates toward code-level problems rather than strategy.
+Fix: Actively delegate implementation; focus on identifying the highest-leverage problems; cultivate executive relationships.

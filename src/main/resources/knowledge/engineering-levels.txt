@@ -1,0 +1,43 @@
+ENGINEERING LEVELS FRAMEWORK
+
+L3 - Software Engineer I
+Technical Scope: Implements well-defined tasks within a single component or feature area.
+Expected Output: Completes assigned tickets with minimal supervision; produces working, tested code.
+Collaboration: Works within a squad; relies on senior engineers for design direction.
+Ownership: Owns individual tasks, not entire features.
+Impact: Task-level impact within a team.
+
+L4 - Software Engineer II
+Technical Scope: Designs and implements features end-to-end within a service or domain.
+Expected Output: Ships features independently; writes design docs for medium-complexity changes.
+Collaboration: Coordinates with adjacent teams; unblocks self; mentors interns and L3s informally.
+Ownership: Owns features from design to production; on-call for services they build.
+Impact: Feature-level impact; improves team velocity.
+
+L5 - Senior Software Engineer
+Technical Scope: Leads technical direction for a sub-domain; cross-service design decisions.
+Expected Output: Drives technical roadmap for a team; creates leverage through tooling, patterns, or documentation.
+Collaboration: Actively mentors L3/L4 engineers; strong cross-functional partner; influences product direction.
+Ownership: Owns an entire domain or service; accountable for reliability and quality metrics.
+Impact: Team-level impact; decisions shape what the team builds and how.
+
+L6 - Staff Engineer
+Technical Scope: Cross-team technical strategy; sets standards that others follow.
+Expected Output: Solves org-level technical problems; leads multi-team initiatives; drives architectural decisions.
+Collaboration: Works across multiple teams; influences engineering culture; represents engineering in leadership forums.
+Ownership: Owns technical strategy for a product area or platform; drives multi-quarter roadmaps.
+Impact: Organization-level impact; outcomes affect multiple teams or products.
+
+L7 - Principal Engineer
+Technical Scope: Company-wide technical influence; identifies and solves high-leverage problems at scale.
+Expected Output: Defines technical vision; shapes hiring and talent strategy; external thought leadership.
+Collaboration: Partners with VPs and Directors; shapes company engineering culture.
+Ownership: Owns technical strategy for a business unit or entire engineering org.
+Impact: Company-level impact; work shapes engineering direction for years.
+
+L8 - Distinguished Engineer / Fellow
+Technical Scope: Industry-level influence; pioneer in domain.
+Expected Output: Defines category-level thinking; patents, research, keynotes.
+Collaboration: Advises C-suite; represents company externally.
+Ownership: Owns technical legacy of the company.
+Impact: Industry-level impact.

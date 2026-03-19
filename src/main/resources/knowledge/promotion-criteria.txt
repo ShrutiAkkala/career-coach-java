@@ -1,0 +1,36 @@
+PROMOTION CRITERIA AND REQUIREMENTS
+
+Promotion from L3 to L4
+Technical Bar: Consistently delivers features end-to-end. Writes clean, reviewed code. Understands system they work in.
+Behavioral Bar: Proactively identifies problems; doesn't wait to be unblocked.
+Key Evidence: 2+ features shipped independently; positive feedback from team lead.
+Timeline: Typically 1.5-2 years at L3 with consistent high performance.
+Common Blockers: Over-dependence on senior engineers for design decisions; communication gaps in written docs.
+
+Promotion from L4 to L5 (Senior)
+Technical Bar: Designs systems with appropriate tradeoffs. Mentors others effectively. Leads technical discussions.
+Behavioral Bar: Influences without authority; seen as a technical resource by peers.
+Key Evidence: Led a non-trivial project from design to production; clear documentation of decisions and tradeoffs.
+Timeline: Typically 2-3 years at L4. This is the most competitive bar at most companies.
+Common Blockers: Focusing on technical execution only, not investing in mentorship or cross-team impact. Underinvesting in communication skills.
+
+Promotion from L5 to L6 (Staff)
+Technical Bar: Solves problems that span teams. Creates technical leverage for the organization.
+Behavioral Bar: Operates as a technical leader, not just a contributor. Shapes roadmap and team direction.
+Key Evidence: Led a multi-team initiative with measurable org impact. Changed how your org approaches a class of problems.
+Timeline: Typically 3-4+ years at L5. Many senior engineers plateau here without intentional investment.
+Common Blockers: Staying too close to implementation; not delegating enough; insufficient executive presence.
+
+Promotion from L6 to L7 (Principal)
+Technical Bar: Defines company-wide standards. Solves the highest-leverage technical problems.
+Behavioral Bar: Seen as a trusted technical advisor by VPs and Directors. Strong external presence.
+Key Evidence: Drove a company-wide technical transformation. Recognized externally (talks, papers, open source).
+Timeline: 4-6+ years at L6. These roles are rare and require sponsor investment.
+Common Blockers: Limited executive visibility; lack of external credibility; not enough "big bets" in portfolio.
+
+Key Promotion Principles
+1. Promotion is about operating consistently at the NEXT level, not doing your current level perfectly.
+2. Sponsorship matters: having a senior advocate who will speak for you in promotion committees is essential.
+3. Visibility is not optional: if your manager doesn't know your impact, the committee won't either.
+4. Artifacts matter: design docs, post-mortems, RFC proposals are your evidence portfolio.
+5. Timing matters: promotion cycles typically happen twice per year; align impact with review windows.
